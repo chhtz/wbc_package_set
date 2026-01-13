@@ -17,7 +17,6 @@ version_control:
       
     - control/proxqp:
       github: Simple-Robotics/proxsuite.git
-      branch: main
       with_submodules: true
       
     - control/orogen/ctrl_lib:
